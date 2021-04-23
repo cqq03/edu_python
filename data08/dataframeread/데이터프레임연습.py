@@ -201,8 +201,6 @@ inner_result2
 
 
 # In[62]:
-ㄷ
-이거이
 covid19 = pd.read_csv("../data/country_wise_latest.csv")
 covid19
 

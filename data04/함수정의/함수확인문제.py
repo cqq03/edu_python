@@ -1,0 +1,12 @@
+from 함수정의.문제함수 import *
+exam01('root', '홍길동')
+exam02(33, 7)
+exam03()
+exam04()
+exam04()
+exam05()
+exam05()
+exam06()
+exam07()
+exam08()
+exam09()
